@@ -4,6 +4,8 @@ Add-on repository for Home Assistant. To install, add this repository in
 **Settings → Add-ons → Add-on Store → ⋮ → Repositories** using this
 repo's GitHub URL, then install the add-on from the store.
 
+**NOTE**: 100% vibe-coded, so I can't take credit for anything apart from the idea.
+
 ## Add-ons
 
 ### [Whiteboard](./whiteboard)
