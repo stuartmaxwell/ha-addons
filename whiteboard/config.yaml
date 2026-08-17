@@ -1,5 +1,5 @@
 name: Whiteboard
-version: "0.1.0"
+version: "0.1.1"
 slug: whiteboard
 description: Shared Excalidraw whiteboard in your Home Assistant sidebar
 url: https://github.com/stuartmaxwell/ha-addons
