@@ -1,5 +1,7 @@
 # Whiteboard
 
+**NOTE**: This was 100% vibe-coded, so use at your own risk. Check the source code yourself.
+
 ## How it works
 
 The add-on serves a bundled copy of [Excalidraw](https://excalidraw.com)
