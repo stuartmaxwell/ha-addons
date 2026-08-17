@@ -1,0 +1,24 @@
+{
+  "name": "whiteboard-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "^11.10.0",
+      "onFail": "download"
+    }
+  },
+  "type": "module",
+  "dependencies": {
+    "@excalidraw/excalidraw": "^0.18.1",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2"
+  },
+  "private": true
+}
